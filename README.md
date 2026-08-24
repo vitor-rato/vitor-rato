@@ -2,7 +2,7 @@
 ## estudante
 ### senac
 
-<div al ign="center"> 
+<div align="center"> 
 <img src="assets/HTML.svg">
 
 <img src="assets/CSS.svg">

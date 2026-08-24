@@ -3,9 +3,9 @@
 ### senac
 
 <div align="center"> 
-<img src="assets/HTML.svg" widht="70px" height="70px">
+<img src="assets/HTML.svg">
 
-<img src="assets/CSS.svg" widht="70px" height="70px">
+<img src="assets/CSS.svg">
 
-<img src="assets/JavaScript.svg" widht="70px" height="70px">
+<img src="assets/JavaScript.svg">
 </div>
